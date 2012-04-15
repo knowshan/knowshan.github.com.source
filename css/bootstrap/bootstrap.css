@@ -3479,6 +3479,11 @@ a.thumbnail:hover {
   font-weight: 200;
   line-height: 27px;
 }
+.hero-unit li {
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 200;
+}
 .pull-right {
   float: right;
 }
